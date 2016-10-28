@@ -1,7 +1,7 @@
 {
   "name": "varanus-express",
   "version": "0.1.0",
-  "description": "",
+  "description": "Middleware to track express route timings via varanus",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/"
