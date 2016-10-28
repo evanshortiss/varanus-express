@@ -1,0 +1,35 @@
+{
+  "name": "varanus-express",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "files": ["lib/"]
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanshortiss/varanus-express.git"
+  },
+  "keywords": [
+    "express",
+    "varanus",
+    "statistics",
+    "route"
+  ],
+  "author": "Evan Shortiss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanshortiss/varanus-express/issues"
+  },
+  "homepage": "https://github.com/evanshortiss/varanus-express#readme",
+  "peerDependencies": {
+    "varanus": "~2.1.0"
+  },
+  "devDependencies": {
+    "chai": "~3.5.0",
+    "mocha": "~3.1.2",
+    "on-finished": "~2.3.0",
+    "sinon": "~1.17.6"
+  }
+}
